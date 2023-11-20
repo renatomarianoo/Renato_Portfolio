@@ -3,7 +3,7 @@
 #### Technical Skills: Python (NumPy, Pandas, Scikit-learn, Matplotlib), SQL, Spark
 
 ## Education
-- Data Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; | Turing College (_February 2024_)								       		
+- Data Science  | Turing College (_February 2024_)								       		
 - M.Sc. Hydro Science and Engineering	| Technical University of Dresden (_February 2022_)	 			        		
 - B.Sc. Civil Engineering &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; | Federal University of Tocantins (_February 2017_)
 
@@ -39,6 +39,6 @@
 
 ## Languages
 Portuguese : Native &emsp;&emsp;&emsp;&emsp; English: C1 &emsp;&emsp;&emsp;&emsp; German: C1 &emsp;&emsp;&emsp;&emsp;<br>
-French: B2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Spanish: C1
+French: B2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Spanish: C1
 
 
