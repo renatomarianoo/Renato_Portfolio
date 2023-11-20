@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL
 
 ## Education
-- Data Science | Turing College (_February 2024_)								       		
+- Data Science                        | Turing College (_February 2024_)								       		
 - M.Sc. Hydro Science and Engineering	| Technical University of Dresden (_February 2022_)	 			        		
-- B.Sc. Civil Engineering | Federal University of Tocantins (_February 2017_)
+- B.Sc. Civil Engineering             | Federal University of Tocantins (_February 2017_)
 
 ## Work Experience
 **Urban Water Engineer @ Ingenieurbüro K. Langenbach Dresden (_February 2022 - September 2023_)**
