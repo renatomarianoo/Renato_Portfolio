@@ -21,7 +21,7 @@
 
 ### [Lending Club Dataset](https://github.com/renatomarianoo/Lending-Club-Dataset)
 - Conducted end-to-end data science project, from dataset exploration and statistical analysis to developing and deploying machine learning models for automated lending decisions.
-- Achieved a high classification accuracy of 93% for rejected and 99% for accepted loan applications, deploying the best-performing model (Decision Tree).
+- Achieved a high classification recall of 93% for rejected and 99% for accepted loan applications, deploying the best-performing model (Decision Tree).
 
 ### [European Football Database](https://github.com/renatomarianoo/European-Football-Database)
 - Conducted in-depth exploration of the European Soccer Database, identifying key trends in goal-scoring, top scorers, and home advantage across leagues and countries.
