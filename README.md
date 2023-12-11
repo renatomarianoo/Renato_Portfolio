@@ -19,14 +19,15 @@
 
 ## Projects
 
-### [Lending Club Dataset](https://github.com/renatomarianoo/Lending-Club-Dataset)
-- Conducted end-to-end data science project, from dataset exploration and statistical analysis to developing and deploying machine learning models for automated lending decisions.
-- Achieved a high classification recall of 93% for rejected and 99% for accepted loan applications, deploying the best-performing model (Decision Tree).
+### [Risk Evaluation Retail Banks](https://github.com/renatomarianoo/Risk_Evaluation_Retail_Banks)
+- Led an end-to-end data science project, from dataset exploration and statistical analysis to developing and deploying machine learning models for automated decisions for the Home Credit Bank.
+- Identified pivotal features for credit approval.
+- Implemented a model resulting in a 4.7% reduction in defaulted credits, equating to a potential financial risk mitigation of $2.6 billion.
 
 ### [European Football Database](https://github.com/renatomarianoo/European-Football-Database)
-- Conducted in-depth exploration of the European Soccer Database, identifying key trends in goal-scoring, top scorers, and home advantage across leagues and countries.
-- Developed and compared machine learning models, with the RandomForestClassifier excelling in predicting match winners and Multinomial Logistic Regression achieving superior accuracy in goal prediction.
-- Generated valuable insights into player attributes, league-specific dynamics, and suggested future improvements for enhanced model performance in European football predictions.
+- Led a thorough exploration of the European Soccer Database, uncovering key trends in goal-scoring, top scorers, and home advantage across diverse leagues and countries. 
+- Conducted a meticulous comparison of machine learning models, with the RandomForestClassifier excelling in predicting match winners.
+- Proposed forward-looking enhancements for optimized model performance.
 
 ### [COVID-19 South Korea Dataset Analysis](https://github.com/renatomarianoo/COVID-19-South-Korea)
 - Analyzed a Kaggle dataset on Coronavirus cases in South Korea, showcasing key insights such as the exponential growth in cases, positive impact of social policies, and age/gender susceptibility.
@@ -34,9 +35,9 @@
 - Emphasized the increasing mortality rate with age, reaching 25% in the 80s age group, providing crucial insights for understanding the impact of COVID-19.
 
 ### [Red Wine Quality Dataset](https://github.com/renatomarianoo/Wine-Quality-Dataset)
-- Conducted analysis on a red wine quality dataset, focusing on physiochemical features and excluding sensitive information like grape types and selling prices.
-- Developed models predicting wine quality and alcohol level, achieving 82% accuracy in quality prediction and identifying high alcohol levels as a crucial parameter for good wine quality.
-- Addressed challenges in predicting extreme wine categories, provided insights for potential model improvements, and performed statistical inference analysis to identify key factors influencing wine quality.
+- Delved into the Coronavirus cases in South Korea, unveiling crucial insights such as the exponential growth in cases, the positive impact of social policies, and nuanced age/gender susceptibility patterns. 
+- Illuminated the geographical impact, pinpointing Daegu as an epicenter, and revealed a lack of correlation between cases and population density. 
+- Emphasized the escalating mortality rate with age, particularly reaching 25% in the 80s age group, providing crucial insights for understanding the impact of COVID-19.
 
 **All of my projects are available on my GitHub [repository](https://github.com/renatomarianoo?tab=repositories)**.
 
