@@ -19,7 +19,7 @@
 
 ## Projects
 
-### [Risk Evaluation Retail Banks](https://github.com/renatomarianoo/Risk_Evaluation_Retail_Banks)
+### [Risk Evaluation for Retail Banks](https://github.com/renatomarianoo/Risk_Evaluation_Retail_Banks)
 - Led an end-to-end data science project, from dataset exploration and statistical analysis to developing and deploying machine learning models for automated decisions for the Home Credit Bank.
 - Identified pivotal features for credit approval.
 - Implemented a model resulting in a 4.7% reduction in defaulted credits, equating to a potential financial risk mitigation of $2.6 billion.
